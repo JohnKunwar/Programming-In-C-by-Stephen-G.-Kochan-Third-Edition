@@ -147,6 +147,10 @@ All the example program are alse in the respective respority.
 
 [Exercise 6](https://github.com/JohnKunwar/Programming-In-C-by-Stephen-G.-Kochan-Third-Edition/blob/main/chapter%2016/ex_16_6.c)
 
+## Chapter 17 - Miscellaneous and Advanced Features
+## Chapter 18 - Debugging Programs
+## Chapter 19 - Object-Oriented Programming
+
 
 
 
