@@ -1,6 +1,6 @@
 # Programming-In-C-by-Stephen-G.-Kochan-Third-Edition
 This respority contains my own solution to all the exercise problem. 
-All the example program are alse in the respective respority. 
+All the example program are also in the respective respority. 
 
 ## Chapter 1 - Introduction
 ## Chatper 2 - Some Fundamentals
