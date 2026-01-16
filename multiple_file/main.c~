@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void)
+{
+    printf("%i", plus5(5));
+    return 0;
+}

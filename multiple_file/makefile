@@ -1,0 +1,13 @@
+SRC = mod1.c main.c
+OBJ = mod1.o main.o
+PROG = two
+
+$(PROG) : $(OBJ)
+	gcc $(OBJ) -o $(PROG)
+
+
+$(OBJ) : $(SRC)
+
+
+./$(PROG)
+
